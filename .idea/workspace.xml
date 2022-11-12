@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5254c1a6-d10c-4a83-b035-ef10917b1bfd" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/read_json_yt/Cargo.toml" beforeDir="false" afterPath="$PROJECT_DIR$/read_json_yt/Cargo.toml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/read_json_yt/src/main.rs" beforeDir="false" afterPath="$PROJECT_DIR$/read_json_yt/src/main.rs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,6 +51,10 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="t" />
+    <option name="LAST_COMMIT_MESSAGE" value="t" />
   </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
