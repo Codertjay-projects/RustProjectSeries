@@ -299,6 +299,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="org.rust.cargo.project.model.PROJECT_DISCOVERY" value="true" />
     <property name="org.rust.hideNoCargoProjectNotificationsC:/Users/Codertjay/GolandProjects/Rust_Project_Series/RustCSV/src/main.rs" value="true" />
+    <property name="org.rust.hideNoCargoProjectNotificationsC:/Users/Codertjay/GolandProjects/Rust_Project_Series/json_write/src/main.rs" value="true" />
     <property name="org.rust.hideNoCargoProjectNotificationsC:/Users/Codertjay/GolandProjects/Rust_Project_Series/read_json_yt/src/main.rs" value="true" />
     <property name="settings.editor.selected.configurable" value="go" />
   </component>
@@ -312,7 +313,8 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="t" />
-    <option name="LAST_COMMIT_MESSAGE" value="t" />
+    <MESSAGE value="add rust read json" />
+    <option name="LAST_COMMIT_MESSAGE" value="add rust read json" />
   </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
