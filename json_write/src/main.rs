@@ -13,5 +13,20 @@ struct Article {
 }
 
 fn main() {
-    let article
+    let article: Article = Article {
+        article: String::from("how to work with json in Rust"),
+        author: String::from("codertjay"),
+        paragraph: vec!(
+            Paragraph {
+                name: String::from("first sentence")
+            }, Paragraph {
+                name: String::from("second sentence")
+            }, Paragraph {
+                name: String::from("last sentence")
+            }
+        ),
+    };
+
+    let json = serde_json::to_string(&article).unwrap();
+    println!("the json is: {}", json)
 }
