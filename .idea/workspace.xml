@@ -5,12 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5254c1a6-d10c-4a83-b035-ef10917b1bfd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/api-call/Cargo.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-call/src/main.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/async-rust-yt/Cargo.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-call/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-download-image/Cargo.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-download-image/Cargo.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-download-image/src/main.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-rhai-api/Cargo.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-rhai-api/src/add.rhai" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-rhai-api/src/main.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-rhai-api/src/multiply.rhai" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/async-rust-yt/Cargo.toml" beforeDir="false" afterPath="$PROJECT_DIR$/async-rust-yt/Cargo.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/async-rust-yt/src/main.rs" beforeDir="false" afterPath="$PROJECT_DIR$/async-rust-yt/src/main.rs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +57,7 @@
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.modules.go.list.on.any.changes.was.set" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/api-call" />
     <property name="org.rust.cargo.project.model.PROJECT_DISCOVERY" value="true" />
     <property name="org.rust.hideNoCargoProjectNotificationsC:/Users/Codertjay/GolandProjects/Rust_Project_Series/RustCSV/src/main.rs" value="true" />
     <property name="org.rust.hideNoCargoProjectNotificationsC:/Users/Codertjay/GolandProjects/Rust_Project_Series/api-call/Cargo.toml" value="true" />
@@ -65,7 +68,17 @@
     <property name="org.rust.hideNoCargoProjectNotificationsC:/Users/Codertjay/GolandProjects/Rust_Project_Series/get_request/src/main.rs" value="true" />
     <property name="org.rust.hideNoCargoProjectNotificationsC:/Users/Codertjay/GolandProjects/Rust_Project_Series/json_write/src/main.rs" value="true" />
     <property name="org.rust.hideNoCargoProjectNotificationsC:/Users/Codertjay/GolandProjects/Rust_Project_Series/read_json_yt/src/main.rs" value="true" />
-    <property name="settings.editor.selected.configurable" value="go" />
+    <property name="org.rust.hideNoCargoProjectNotificationsC:/Users/Codertjay/GolandProjects/Rust_Project_Series/rust-download-image/src/main.rs" value="true" />
+    <property name="org.rust.hideNoCargoProjectNotificationsC:/Users/Codertjay/GolandProjects/Rust_Project_Series/rust-rhai-api/Cargo.toml" value="true" />
+    <property name="org.rust.hideNoCargoProjectNotificationsC:/Users/Codertjay/GolandProjects/Rust_Project_Series/rust-rhai-api/src/add.rhai" value="true" />
+    <property name="org.rust.hideNoCargoProjectNotificationsC:/Users/Codertjay/GolandProjects/Rust_Project_Series/rust-rhai-api/src/main.rs" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Codertjay\GolandProjects\Rust_Project_Series\api-call" />
+      <recent name="C:\Users\Codertjay\GolandProjects\Rust_Project_Series\rust-rhai-api\src" />
+    </key>
   </component>
   <component name="RustProjectSettings">
     <option name="toolchainHomeDirectory" value="$USER_HOME$/.cargo/bin" />
