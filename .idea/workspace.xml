@@ -5,19 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5254c1a6-d10c-4a83-b035-ef10917b1bfd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/RustCSV/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RustCSV/Cargo.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RustCSV/Cargo.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RustCSV/customers.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RustCSV/src/main.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/get_request/Cargo.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/get_request/Cargo.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/get_request/src/main.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/json_write/Cargo.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-call/Cargo.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-call/src/main.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/async-rust-yt/Cargo.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RustCSV" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/json_write/src/main.rs" beforeDir="false" afterPath="$PROJECT_DIR$/json_write/src/main.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/async-rust-yt/Cargo.toml" beforeDir="false" afterPath="$PROJECT_DIR$/async-rust-yt/Cargo.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/async-rust-yt/src/main.rs" beforeDir="false" afterPath="$PROJECT_DIR$/async-rust-yt/src/main.rs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +20,14 @@
   <component name="GOROOT" url="file://$PROJECT_DIR$/../../../../Program Files/Go" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="GoLibraries">
     <option name="indexEntireGoPath" value="false" />
@@ -56,6 +57,10 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="org.rust.cargo.project.model.PROJECT_DISCOVERY" value="true" />
     <property name="org.rust.hideNoCargoProjectNotificationsC:/Users/Codertjay/GolandProjects/Rust_Project_Series/RustCSV/src/main.rs" value="true" />
+    <property name="org.rust.hideNoCargoProjectNotificationsC:/Users/Codertjay/GolandProjects/Rust_Project_Series/api-call/Cargo.toml" value="true" />
+    <property name="org.rust.hideNoCargoProjectNotificationsC:/Users/Codertjay/GolandProjects/Rust_Project_Series/api-call/src/main.rs" value="true" />
+    <property name="org.rust.hideNoCargoProjectNotificationsC:/Users/Codertjay/GolandProjects/Rust_Project_Series/async-rust-yt/Cargo.toml" value="true" />
+    <property name="org.rust.hideNoCargoProjectNotificationsC:/Users/Codertjay/GolandProjects/Rust_Project_Series/async-rust-yt/src/main.rs" value="true" />
     <property name="org.rust.hideNoCargoProjectNotificationsC:/Users/Codertjay/GolandProjects/Rust_Project_Series/get_request/Cargo.toml" value="true" />
     <property name="org.rust.hideNoCargoProjectNotificationsC:/Users/Codertjay/GolandProjects/Rust_Project_Series/get_request/src/main.rs" value="true" />
     <property name="org.rust.hideNoCargoProjectNotificationsC:/Users/Codertjay/GolandProjects/Rust_Project_Series/json_write/src/main.rs" value="true" />
